@@ -1,0 +1,12 @@
+$textcolor:black;
+$back1:#ecffe9;
+$back2: #c0eea9;
+$back3: #97d279;
+$padding:20px;
+
+
+@mixin text {
+    max-width: 700px;
+    text-align: center;
+    padding: $padding;
+  }
